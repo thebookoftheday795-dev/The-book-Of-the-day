@@ -1,0 +1,8 @@
+{
+  "name": "Remix Bharat chronicles ",
+  "description": "All-India multi-newspaper broadsheet and regional wire covering National, Regional, Economics, Sports, and Technology desks with real-time push notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
